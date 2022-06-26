@@ -6,6 +6,7 @@
   <a href="https://github.com/victorbrambilla">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victorbrambilla&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbrambilla&layout=compact&langs_count=7&theme=dark"/>
+   
 </div>
   
  <div style="display: inline_block"><br>
@@ -31,8 +32,5 @@
  
 </div >
   <div align="center">
-      <a href="https://wakatime.com"><img width="300" src="https://wakatime.com/share/@0428e0b5-3069-40a3-b458-d70ca80ef720/8eec9a2a-7963-4984-9394-8a392c520f24.png" />
-  <a href="https://wakatime.com"><img width="300" src="https://wakatime.com/share/@0428e0b5-3069-40a3-b458-d70ca80ef720/10cc4e79-8996-4256-8655-2e9fc38a1b40.png" /> 
-
-  </div align="center">
- 
+<img src="https://wakatime.com/share/@0428e0b5-3069-40a3-b458-d70ca80ef720/ae1bc1e1-f144-4e17-a4bf-b06214f5e9f6.png" />
+  </div>
