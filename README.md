@@ -28,7 +28,11 @@
   <a href = "mailto:victor-brambilla@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-brambilla-a36044201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- ![Snake animation](https://github.com/victorbrambilla/victorbrambilla/blob/output/github-contribution-grid-snake.svg)
  
+</div >
+  <div align="center">
+      <a href="https://wakatime.com"><img width="500" src="https://wakatime.com/share/@0428e0b5-3069-40a3-b458-d70ca80ef720/8eec9a2a-7963-4984-9394-8a392c520f24.png" />
+  <a href="https://wakatime.com"><img width="500" src="https://wakatime.com/share/@0428e0b5-3069-40a3-b458-d70ca80ef720/10cc4e79-8996-4256-8655-2e9fc38a1b40.png" /> 
+
+  </div align="center">
  
-</div>
